@@ -1,5 +1,11 @@
 <html>
 <head>
+     <script src="audiojs/audio.min.js"></script>
+    <script>
+      audiojs.events.ready(function() {
+        audiojs.createAll();
+      });
+    </script>
 <style>
 body {
      background-color: black;
@@ -17,9 +23,7 @@ p {
 <center><object width="350" height="50" data="Prabha Tech.png"></object></center>
 <center><p>AR Rahman FM</p>
  
-<audio controls autoplay>
-  <source src="http://66.55.145.43:7842/stream.mp3" type="audio/mpeg" autoplay="autoplay">
-  </audio>
+<audio src="http://66.55.145.43:7842/stream.mp3" autoplay="autoplay"></audio>
      </center>
 <center> <p style="color:grey; font-size: 12px;"> &#x000A9 Prabha Tech </p> </center>
 </body>
