@@ -1,6 +1,6 @@
 
 // Cache references to DOM elements.
-var elms = ['station0', 'title0', 'live0', 'playing0', 'station1', 'title1', 'live1', 'playing1', 'station2', 'title2', 'live2', 'playing2', 'station3', 'title3', 'live3', 'playing3', 'station4', 'title4', 'live4', 'playing4','station5', 'title5', 'live5', 'playing5','station6', 'title6', 'live6', 'playing6','station7', 'title7', 'live7', 'playing7','station8', 'title8', 'live8', 'playing8','station9', 'title9', 'live9', 'playing9','station10', 'title10', 'live10', 'playing10','station11', 'title11', 'live11', 'playing11','station12', 'title12', 'live12', 'playing12','station13', 'title13', 'live13', 'playing13','station14', 'title14', 'live14', 'playing14','station15', 'title15', 'live15', 'playing15','station16', 'title16', 'live16', 'playing16','station17', 'title17', 'live17', 'playing17','station18', 'title18', 'live18', 'playing18','station19', 'title19', 'live19', 'playing19','station20', 'title20', 'live20', 'playing20','station21', 'title21', 'live21', 'playing21','station22', 'title22', 'live22', 'playing22','station23', 'title23', 'live23', 'playing23','station24', 'title24', 'live24', 'playing24','station25', 'title25', 'live25', 'playing25','station26', 'title26', 'live26', 'playing26','station27', 'title27', 'live27', 'playing27','station28', 'title28', 'live28', 'playing28','station29', 'title29', 'live29', 'playing29','station30', 'title30', 'live30', 'playing30','station31', 'title31', 'live31', 'playing31','station32', 'title32', 'live32', 'playing32','station33', 'title33', 'live33', 'playing33','station34', 'title34', 'live34', 'playing34','station35', 'title35', 'live35', 'playing35','station36', 'title36', 'live36', 'playing36','station37', 'title37', 'live37', 'playing37','station38', 'title38', 'live38', 'playing38','station39', 'title39', 'live39', 'playing39','station40', 'title40', 'live40', 'playing40','station41', 'title41', 'live41', 'playing41','station42', 'title42', 'live42', 'playing42','station43', 'title43', 'live43', 'playing43','station44', 'title44', 'live44', 'playing44','station45', 'title45', 'live45', 'playing45','station46', 'title46', 'live46', 'playing46','station47', 'title47', 'live47', 'playing47','station48', 'title48', 'live48', 'playing48','station49', 'title49', 'live49', 'playing49','station50', 'title50', 'live50', 'playing50','station51', 'title51', 'live51', 'playing51','station52', 'title52', 'live52', 'playing52','station53', 'title53', 'live53', 'playing53'];
+var elms = ['station0', 'title0', 'live0', 'playing0', 'station1', 'title1', 'live1', 'playing1', 'station2', 'title2', 'live2', 'playing2', 'station3', 'title3', 'live3', 'playing3', 'station4', 'title4', 'live4', 'playing4','station5', 'title5', 'live5', 'playing5','station6', 'title6', 'live6', 'playing6','station7', 'title7', 'live7', 'playing7','station8', 'title8', 'live8', 'playing8','station9', 'title9', 'live9', 'playing9','station10', 'title10', 'live10', 'playing10','station11', 'title11', 'live11', 'playing11','station12', 'title12', 'live12', 'playing12','station13', 'title13', 'live13', 'playing13','station14', 'title14', 'live14', 'playing14','station15', 'title15', 'live15', 'playing15','station16', 'title16', 'live16', 'playing16','station17', 'title17', 'live17', 'playing17','station18', 'title18', 'live18', 'playing18','station19', 'title19', 'live19', 'playing19','station20', 'title20', 'live20', 'playing20','station21', 'title21', 'live21', 'playing21','station22', 'title22', 'live22', 'playing22','station23', 'title23', 'live23', 'playing23','station24', 'title24', 'live24', 'playing24','station25', 'title25', 'live25', 'playing25','station26', 'title26', 'live26', 'playing26','station27', 'title27', 'live27', 'playing27','station28', 'title28', 'live28', 'playing28','station29', 'title29', 'live29', 'playing29','station30', 'title30', 'live30', 'playing30','station31', 'title31', 'live31', 'playing31','station32', 'title32', 'live32', 'playing32','station33', 'title33', 'live33', 'playing33','station34', 'title34', 'live34', 'playing34','station35', 'title35', 'live35', 'playing35','station36', 'title36', 'live36', 'playing36','station37', 'title37', 'live37', 'playing37','station38', 'title38', 'live38', 'playing38','station39', 'title39', 'live39', 'playing39','station40', 'title40', 'live40', 'playing40','station41', 'title41', 'live41', 'playing41','station42', 'title42', 'live42', 'playing42','station43', 'title43', 'live43', 'playing43','station44', 'title44', 'live44', 'playing44','station45', 'title45', 'live45', 'playing45','station46', 'title46', 'live46', 'playing46','station47', 'title47', 'live47', 'playing47','station48', 'title48', 'live48', 'playing48','station49', 'title49', 'live49', 'playing49','station50', 'title50', 'live50', 'playing50','station51', 'title51', 'live51', 'playing51','station52', 'title52', 'live52', 'playing52','station53', 'title53', 'live53', 'playing53','station54', 'title54', 'live54', 'playing54','station55', 'title55', 'live55', 'playing55','station56', 'title56', 'live56', 'playing56','station57', 'title57', 'live57', 'playing57','station58', 'title58', 'live58', 'playing58','station59', 'title59', 'live59', 'playing59','station60', 'title60', 'live60', 'playing60','station61', 'title61', 'live61', 'playing61','station62', 'title62', 'live62', 'playing62','station63', 'title63', 'live63', 'playing63','station64', 'title64', 'live64', 'playing64','station65', 'title65', 'live65', 'playing65'];
 elms.forEach(function(elm) {
   window[elm] = document.getElementById(elm);
 });
@@ -191,14 +191,14 @@ var radio = new Radio([
   },
   {
     freq: '*',
-    title: "Hungama Tamil Hits FM",
-    src: ['http://123.176.41.8:8632/;stream.mp3', 'http://123.176.41.8:8632/;stream.mp3'],
+    title: "Radio Dum Dum",
+    src: ['http://che.radiodumdum.com:8000/stream', 'http://che.radiodumdum.com:8000/stream'],
     howl: null
   },
   {
     freq: '*',
-    title: "Hungama Tamil Classic",
-    src: ['http://123.176.41.8:8264/;stream.mp3', 'http://123.176.41.8:8264/;stream.mp3'],
+    title: "Raaja FM",
+    src: ['http://66.55.145.43:7846/;stream.mp3', 'http://66.55.145.43:7846/;stream.mp3'],
     howl: null
   },
   {
@@ -311,8 +311,8 @@ var radio = new Radio([
   },
   {
     freq: '*',
-    title: "Kavi Tamil Radio",
-    src: ['http://streaming.shoutcast.com/kavitamilradio?lang=en-US%2cen%3bq%3d0.5', 'http://streaming.shoutcast.com/kavitamilradio?lang=en-US%2cen%3bq%3d0.5'],
+    title: "STAR FM Radio",
+    src: ['http://198.178.123.2:8734/;stream.mp3', 'http://198.178.123.2:8734/;stream.mp3'],
     howl: null
   },
   {
@@ -323,14 +323,14 @@ var radio = new Radio([
   },
   {
     freq: '*',
-    title: "MTR 995 Tamil",
-    src: ['http://176.31.120.92:9004/;stream.mp3', 'http://176.31.120.92:9004/;stream.mp3'],
+    title: "MTR HD Tamil",
+    src: ['http://192.184.9.158:8860/;stream.mp3', 'http://192.184.9.158:8860/;stream.mp3'],
     howl: null
   },
   {
     freq: '*',
-    title: "Machi Radio Tamil ",
-    src: ['http://50.7.99.155:7729/;stream.mp3', 'http://50.7.99.155:7729/;stream.mp3'],
+    title: "Uthayam Radio",
+    src: ['http://proxima.shoutca.st:9305/;stream.mp3', 'http://proxima.shoutca.st:9305/;stream.mp3'],
     howl: null
   },
   {
@@ -353,8 +353,8 @@ var radio = new Radio([
   },
   {
     freq: '*',
-    title: "Onex FM Tamil",
-    src: ['http://s1.voscast.com:9134/;stream.mp3', 'http://s1.voscast.com:9134/;stream.mp3'],
+    title: "BTC Tamil FM",
+    src: ['http://199.175.48.216:8080/;stream.mp3', 'http://199.175.48.216:8080/;stream.mp3'],
     howl: null
   },
   {
@@ -413,6 +413,66 @@ var radio = new Radio([
   },
   {
     freq: '*',
+    title: "Kamalhaasan Hits",
+    src: ['http://prclive1.listenon.in:8836/;stream.mp3', 'http://prclive1.listenon.in:8836/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "CFMS Tamil",
+    src: ['http://s9.voscast.com:8708/;stream.mp3', 'http://s9.voscast.com:8708/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "ClubHouse Tamil",
+    src: ['http://5.135.154.91:8302/;stream.mp3', 'http://5.135.154.91:8302/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "ITR Tamil",
+    src: ['http://s4.voscast.com:8360/;stream.mp3', 'http://s4.voscast.com:8360/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "Jei FM",
+    src: ['http://jeifm.no-ip.org:8808/;stream.mp3', 'http://jeifm.no-ip.org:8808/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "ATBC Tamil Fm",
+    src: ['http://s7.viastreaming.net:7920/;stream.mp3', 'http://s7.viastreaming.net:7920/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "Radio Beat Tamil",
+    src: ['http://192.99.9.172:8044/stream', 'http://192.99.9.172:8044/stream'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "Jaffna Tamil Radio",
+    src: ['http://jtrfm.ddnss.de:8000/;stream.mp3', 'http://jtrfm.ddnss.de:8000/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "Paaddu FM",
+    src: ['http://37.59.28.208:8338/;stream.mp3', 'http://37.59.28.208:8338/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "Sai FM",
+    src: ['http://s2.voscast.com:9742/;stream.mp3', 'http://s2.voscast.com:9742/;stream.mp3'],
+    howl: null
+  },
+  {
+    freq: '*',
     title: "Ayyappa Tamil FM",
     src: ['http://69.197.169.178:28232/;stream.mp3', 'http://69.197.169.178:28232/;stream.mp3'],
     howl: null
@@ -427,6 +487,18 @@ var radio = new Radio([
     freq: '*',
     title: "iYaliSai Bakthi FM",
     src: ['http://curiosity.shoutca.st:9655/mp64', 'http://curiosity.shoutca.st:9655/mp64'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "Tamil Islam FM",
+    src: ['http://cp8.serverse.com:7067/stream', 'http://cp8.serverse.com:7067/stream'],
+    howl: null
+  },
+  {
+    freq: '*',
+    title: "Jesus FM",
+    src: ['http://50.7.70.66:8575/;stream.mp3', 'http://50.7.70.66:8575/;stream.mp3'],
     howl: null
   }
 ]);
