@@ -449,8 +449,8 @@ var radio = new Radio([
   },
   {
     freq: '*',
-    title: "Radio Beat Tamil",
-    src: ['http://192.99.9.172:8044/stream', 'http://192.99.9.172:8044/stream'],
+    title: "Muththu FM",
+    src: ['http://s8.voscast.com:8546/;stream.mp3', 'http://s8.voscast.com:8546/;stream.mp3'],
     howl: null
   },
   {
