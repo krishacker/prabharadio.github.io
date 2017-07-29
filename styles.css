@@ -11,7 +11,7 @@ body {
   height: 150%;
   padding: 0;
   margin: 0;
-  	background-color:black;
+  	background-image: linear-gradient(to right,#7b7d7d, #7b7d7d 15%, #7b7d7d 15%, #000000 85%, #000000 85% );
    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 }
 
