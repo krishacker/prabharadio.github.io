@@ -382,8 +382,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "RadioBOSS Stream",
-    src: ['http://95.154.202.117:14111/;stream.mp3', 'http://95.154.202.117:14111/;stream.mp3'],
+    title: "Radio Bonn",
+    src: ['http://78.46.251.203:8000/;stream.mp3', 'http://78.46.251.203:8000/;stream.mp3'],
     howl: null
   },
   {
@@ -394,8 +394,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Radio Beat Tamil FM",
-    src: ['http://192.99.9.172:8044/stream', 'http://192.99.9.172:8044/stream'],
+    title: "Radio Gilli",
+    src: ['http://s2.voscast.com:10616/;stream.mp3', 'http://s2.voscast.com:10616/;stream.mp3'],
     howl: null
   },
   {
