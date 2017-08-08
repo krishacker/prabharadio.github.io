@@ -383,8 +383,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "RadioBOSS Stream",
-    src: ['http://95.154.202.117:14111/;stream.mp3', 'http://95.154.202.117:14111/;stream.mp3'],
+    title: "Radio Bonn Germany",
+    src: ['http://78.46.251.203:8000/;stream.mp3', 'http://78.46.251.203:8000/;stream.mp3'],
     howl: null
   },
   {
@@ -395,8 +395,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Radio Beat Tamil FM",
-    src: ['http://192.99.9.172:8044/stream', 'http://192.99.9.172:8044/stream'],
+    title: "Radio Gilli",
+    src: ['http://s2.voscast.com:10616/;stream.mp3', 'http://s2.voscast.com:10616/;stream.mp3'],
     howl: null
   },
   {
@@ -492,13 +492,13 @@ var radio = new Radio([
    {
     freq: '&#9725',
     title: "YSR Radio",
-    src: ['http://66.55.145.43:7838/stream.mp3', 'http://66.55.145.43:7838/stream.mp3'],
+    src: ['http://212.83.138.48:8360/stream.mp3', 'http://212.83.138.48:8360/stream.mp3'],
     howl: null
   },
    {
     freq: '&#9725',
     title: "Yet FM",
-    src: ['http://streaming.radio.co/sa6a383546/listen', 'http://streaming.radio.co/sa6a383546/listen'],
+    src: ['http://107.182.231.73:7074/stream', 'http://107.182.231.73:7074/stream'],
     howl: null
   },
   {
