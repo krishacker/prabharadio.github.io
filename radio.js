@@ -448,8 +448,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Muththu FM",
-    src: ['http://s8.voscast.com:8546/;stream.mp3', 'http://s8.voscast.com:8546/;stream.mp3'],
+    title: "Muththamizh FM",
+    src: ['http://192.95.39.65:5345/stream', 'http://192.95.39.65:5345/stream'],
     howl: null
   },
   {
