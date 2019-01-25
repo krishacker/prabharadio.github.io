@@ -178,8 +178,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Geetham Request Song FM",
-    src: ['http://www.geethamradio.com:8020/hifi.mp3', 'http://www.geethamradio.com:8020/hifi.mp3'],
+    title: "Anirudh FM",
+    src: ['http://southradios.net:9090/anirudhradio', 'http://southradios.net:9090/anirudhradio'],
     howl: null
   },
   {
@@ -220,8 +220,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Butterfly FM",
-    src: ['http://38.107.242.241:7164/;stream.mp3', 'http://38.107.242.241:7164/;stream.mp3'],
+    title: "Air Tamil FM",
+    src: ['http://163.172.165.94:8426/;stream.mp3', 'http://163.172.165.94:8426/;stream.mp3'],
     howl: null
   },
   {
