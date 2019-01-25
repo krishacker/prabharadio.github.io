@@ -346,8 +346,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Norway FM",
-    src: ['http://66.90.103.189:8852/;stream.mp3', 'http://66.90.103.189:8852/;stream.mp3'],
+    title: "Tamil Kuyil FM",
+    src: ['http://live.tamilkuyilradio.com:8095/;stream.mp3', 'http://live.tamilkuyilradio.com:8095/;stream.mp3'],
     howl: null
   },
   {
