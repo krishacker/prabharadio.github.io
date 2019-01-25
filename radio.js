@@ -388,8 +388,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Radio City kaadhal Love",
-    src: ['http://prc.streamguys1.com/secure-radiocity-kaadhal.mp3', 'http://prc.streamguys1.com/secure-radiocity-kaadhal.mp3'],
+    title: "Kadhal Radio",
+    src: ['http://212.83.138.48:8716/stream', 'http://212.83.138.48:8716/stream'],
     howl: null
   },
   {
