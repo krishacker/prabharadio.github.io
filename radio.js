@@ -256,8 +256,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "ETR Music Channel",
-    src: ['http://music.etr.audio:8304/stream', 'http://music.etr.audio:8304/stream'],
+    title: "East FM",
+    src: ['http://174.142.215.249:9966/;stream.mp3', 'http://174.142.215.249:9966/;stream.mp3'],
     howl: null
   },
   {
@@ -304,8 +304,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "8K Radio",
-    src: ['http://16093.live.streamtheworld.com/RADIO_TAMIL_EST_128.mp3', 'http://16093.live.streamtheworld.com/RADIO_TAMIL_EST_128.mp3'],
+    title: "ABC UK Tamil",
+    src: ['http://38.107.243.220:8118/;stream.mp3', 'http://38.107.243.220:8118/;stream.mp3'],
     howl: null
   },
   {
