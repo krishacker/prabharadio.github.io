@@ -376,8 +376,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Planet Radio City",
-    src: ['http://prc.streamguys1.com/secure-radiocity-tamil-tunein', 'http://prc.streamguys1.com/secure-radiocity-tamil-tunein'],
+    title: "Radio City",
+    src: ['http://163.172.165.94:8720/;stream.mp3', 'http://163.172.165.94:8720/;stream.mp3'],
     howl: null
   },
   {
