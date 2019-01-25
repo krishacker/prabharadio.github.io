@@ -352,8 +352,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "BTC Tamil FM",
-    src: ['http://199.175.48.216:8080/;stream.mp3', 'http://199.175.48.216:8080/;stream.mp3'],
+    title: "AJITH FM",
+    src: ['http://192.227.116.104:4078/autodj', 'http://192.227.116.104:4078/autodj'],
     howl: null
   },
   {
