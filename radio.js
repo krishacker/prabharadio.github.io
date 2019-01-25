@@ -250,8 +250,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "ETR Radio Germany",
-    src: ['http://91.121.78.191:8012/stream', 'http://91.121.78.191:8012/stream'],
+    title: "Dance Tamizha FM",
+    src: ['http://ample-zeno-20.radiojar.com/8qaharre56duv.mp3', 'http://ample-zeno-20.radiojar.com/8qaharre56duv.mp3'],
     howl: null
   },
   {
