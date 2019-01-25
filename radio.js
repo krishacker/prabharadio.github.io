@@ -407,7 +407,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Tamilisai FM",
-    src: ['http://s10.voscast.com:7150/;stream.mp3', 'http://s10.voscast.com:7150/;stream.mp3'],
+    src: ['http://185.193.112.155:18244/;stream.mp3', 'http://185.193.112.155:18244/;stream.mp3'],
     howl: null
   },
   {
