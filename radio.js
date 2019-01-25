@@ -148,8 +148,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Geetham 80's FM",
-    src: ['http://www.geethamradio.com:8020/80s_hifi.mp3', 'http://www.geethamradio.com:8020/80s_hifi.mp3'],
+    title: "Radio Varaha FM",
+    src: ['http://46.4.91.28:8044/stream', 'http://46.4.91.28:8044/stream'],
     howl: null
   },
   {
@@ -172,8 +172,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Rainbow FM",
-    src: ['http://164.132.63.75:9998/;stream.mp3', 'http://164.132.63.75:9998/;stream.mp3'],
+    title: "Mohan Hits FM",
+    src: ['http://192.227.116.104:4104/autodj', 'http://192.227.116.104:4104/autodj'],
     howl: null
   },
   {
