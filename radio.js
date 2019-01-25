@@ -334,8 +334,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Masala FM ",
-    src: ['http://s9.voscast.com:8720/;stream.mp3', 'http://s9.voscast.com:8720/;stream.mp3'],
+    title: "Mazhai FM ",
+    src: ['http://media.mazhaifm.com:9999/;stream.mp3', 'http://media.mazhaifm.com:9999/;stream.mp3'],
     howl: null
   },
   {
