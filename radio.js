@@ -394,8 +394,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Radio Gilli",
-    src: ['http://s2.voscast.com:10616/;stream.mp3', 'http://s2.voscast.com:10616/;stream.mp3'],
+    title: "Radio Gethu",
+    src: ['http://198.50.156.92:8902/;stream.mp3', 'http://198.50.156.92:8902/;stream.mp3'],
     howl: null
   },
   {
