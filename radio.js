@@ -130,8 +130,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Geetham FM",
-    src: ['http://www.geethamradio.com:8020/new_hifi.mp3', 'http://www.geethamradio.com:8020/new_hifi.mp3'],
+    title: "Deva FM",
+    src: ['http://southradios.net:9090/devaradio', 'http://southradios.net:9090/devaradio'],
     howl: null
   },
   {
