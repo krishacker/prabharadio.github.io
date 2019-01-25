@@ -136,8 +136,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Geetham Party FM",
-    src: ['http://www.geethamradio.com:8020/party_hifi.mp3', 'http://www.geethamradio.com:8020/party_hifi.mp3'],
+    title: "Kuvalai FM",
+    src: ['http://70.121.72.28:8000/stream.mp3', 'http://70.121.72.28:8000/stream.mp3'],
     howl: null
   },
   {
