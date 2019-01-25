@@ -401,7 +401,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Radio Mirchi",
-    src: ['http://164.132.63.75:9994/;stream.mp3', 'http://164.132.63.75:9994/;stream.mp3'],
+    src: ['http://163.172.165.94:8320/;stream.mp3', 'http://163.172.165.94:8320/;stream.mp3'],
     howl: null
   },
   {
