@@ -382,8 +382,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Radio Bonn",
-    src: ['http://78.46.251.203:8000/;stream.mp3', 'http://78.46.251.203:8000/;stream.mp3'],
+    title: "NAAM TAMILAR FM",
+    src: ['http://sc.cobrasoftwares.in:8012/;stream.mp3', 'http://sc.cobrasoftwares.in:8012/;stream.mp3'],
     howl: null
   },
   {
