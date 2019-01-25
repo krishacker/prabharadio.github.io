@@ -437,7 +437,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Jei FM",
-    src: ['http://jeifm.no-ip.org:8808/;stream.mp3', 'http://jeifm.no-ip.org:8808/;stream.mp3'],
+    src: ['http://radio.jeifm.com:8808/jeiradio', 'http://radio.jeifm.com:8808/jeiradio'],
     howl: null
   },
   {
