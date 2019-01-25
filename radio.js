@@ -328,8 +328,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Uthayam Radio",
-    src: ['http://proxima.shoutca.st:9305/;stream.mp3', 'http://proxima.shoutca.st:9305/;stream.mp3'],
+    title: "Tuticorin Times Radio",
+    src: ['http://192.227.116.104:4161/autodj', 'http://192.227.116.104:4161/autodj'],
     howl: null
   },
   {
