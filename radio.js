@@ -454,8 +454,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Jaffna Tamil Radio",
-    src: ['http://jtrfm.ddnss.de:8000/;stream.mp3', 'http://jtrfm.ddnss.de:8000/;stream.mp3'],
+    title: "Innisai Radio",
+    src: ['http://192.240.102.133:12346/stream', 'http://192.240.102.133:12346/stream'],
     howl: null
   },
   {
