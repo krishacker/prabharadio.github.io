@@ -454,7 +454,7 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Prabha Radio",
+    title: "Innisai Radio",
     src: ['http://192.240.102.133:12346/stream', 'http://192.240.102.133:12346/stream'],
     howl: null
   },
