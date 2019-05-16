@@ -107,7 +107,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "AR Rahman FM",
-    src: ['http://212.83.138.48:8332/stream.mp3', 'http://212.83.138.48:8332/stream.mp3'],
+    src: ['http://southradios.net:9090/arrahmanradio', 'http://southradios.net:9090/arrahmanradio'],
     howl: null
   },
   {
