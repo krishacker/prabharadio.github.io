@@ -364,14 +364,14 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Tamil Beat FM",
-    src: ['http://212.83.138.48:8094/stream.mp3', 'http://212.83.138.48:8094/stream.mp3'],
+    title: "Tamil SUN FM",
+    src: ['http://192.99.4.210:3596/;stream.mp3', 'http://192.99.4.210:3596/;stream.mp3'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Puthu Paadal Radio",
-    src: ['http://212.83.138.48:8336/stream.mp3', 'http://212.83.138.48:8336/stream.mp3'],
+    src: ['http://southradios.net:9090/pudhupaadalradio', 'http://southradios.net:9090/pudhupaadalradio'],
     howl: null
   },
   {
