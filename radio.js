@@ -281,13 +281,13 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Idhayam FM",
-    src: ['http://192.184.9.158:8329/;stream.mp3', 'http://192.184.9.158:8329/;stream.mp3'],
+    src: ['http://proxima.shoutca.st:8528/;stream.mp3', 'http://proxima.shoutca.st:8528/;stream.mp3'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Illayaraja Lite FM",
-    src: ['http://212.83.138.48:8340/stream.mp3', 'http://212.83.138.48:8340/stream.mp3'],
+    src: ['http://southradios.net:9090/ilayarajaliteradio', 'http://southradios.net:9090/ilayarajaliteradio'],
     howl: null
   },
   {
@@ -328,8 +328,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Tuticorin Times Radio",
-    src: ['http://192.227.116.104:4161/autodj', 'http://192.227.116.104:4161/autodj'],
+    title: "Geetham New Songs",
+    src: ['http://www.geethamradio.com:8020/new_hifi.mp3', 'http://www.geethamradio.com:8020/new_hifi.mp3'],
     howl: null
   },
   {
