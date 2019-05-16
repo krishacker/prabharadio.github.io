@@ -191,13 +191,13 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Palaya Padal FM",
-    src: ['http://212.83.138.48:8090/stream.mp3', 'http://212.83.138.48:8090/stream.mp3'],
+    src: ['http://southradios.net:9090/palaiyapaadalradio', 'http://southradios.net:9090/palaiyapaadalradio'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Tamil Lite FM",
-    src: ['http://212.83.138.48:8348/stream.mp3', 'http://212.83.138.48:8348/stream.mp3'],
+    src: ['http://southradios.net:9090/tamilliteradio', 'http://southradios.net:9090/tamilliteradio'],
     howl: null
   },
   {
@@ -221,7 +221,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Air Tamil FM",
-    src: ['http://163.172.165.94:8426/;stream.mp3', 'http://163.172.165.94:8426/;stream.mp3'],
+    src: ['http://southradios.net:9090/tamilliteradio', 'http://southradios.net:9090/tamilliteradio'],
     howl: null
   },
   {
@@ -238,8 +238,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "Dream Share FM",
-    src: ['http://192.235.87.105:15190/;stream.mp3', 'http://192.235.87.105:15190/;stream.mp3'],
+    title: "6 Star Radio",
+    src: ['https://stream.radio.co/s3753dbb3c/listen', 'https://stream.radio.co/s3753dbb3c/listen'],
     howl: null
   },
   {
