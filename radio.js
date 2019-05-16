@@ -430,8 +430,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "ITR Tamil",
-    src: ['http://s4.voscast.com:8360/;stream.mp3', 'http://s4.voscast.com:8360/;stream.mp3'],
+    title: "Dance Tamizha FM",
+    src: ['http://ample-zeno-20.radiojar.com/8qaharre56duv.mp3', 'http://ample-zeno-20.radiojar.com/8qaharre56duv.mp3'],
     howl: null
   },
   {
