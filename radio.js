@@ -113,19 +113,19 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "AR Rahman Lite",
-    src: ['http://212.83.138.48:8328/stream.mp3', 'http://212.83.138.48:8328/stream.mp3'],
+    src: ['http://southradios.net:9090/arrahmanliteradio', 'http://southradios.net:9090/arrahmanliteradio'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Harris Jayaraj FM",
-    src: ['http://212.83.138.48:8352/stream.mp3', 'http://212.83.138.48:8352/stream.mp3'],
+    src: ['http://southradios.net:9090/harrisjayarajradio', 'http://southradios.net:9090/harrisjayarajradio'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Yuvan FM",
-    src: ['http://212.83.138.48:8360/stream.mp3', 'http://212.83.138.48:8360/stream.mp3'],
+    src: ['http://southradios.net:9090/ysrradio', 'http://southradios.net:9090/ysrradio'],
     howl: null
   },
   {
