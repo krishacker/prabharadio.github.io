@@ -143,7 +143,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Ilayaraja FM",
-    src: ['http://212.83.138.48:8324/stream.mp3', 'http://212.83.138.48:8324/stream.mp3'],
+    src: ['http://southradios.net:9090/ilayarajaradio', 'http://southradios.net:9090/ilayarajaradio'],
     howl: null
   },
   {
@@ -155,7 +155,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Yesudas FM",
-    src: ['http://212.83.138.48:8251/stream.mp3', 'http://212.83.138.48:8251/stream.mp3'],
+    src: ['http://southradios.net:9090/kjyesudasradio', 'http://southradios.net:9090/kjyesudasradio'],
     howl: null
   },
   {
@@ -167,13 +167,13 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "SPB Radio",
-    src: ['http://212.83.138.48:8344/stream.mp3', 'http://212.83.138.48:8344/stream.mp3'],
+    src: ['http://southradios.net:9090/spbradio', 'http://southradios.net:9090/spbradio'],
     howl: null
   },
   {
     freq: '&#9725',
-    title: "Mohan Hits FM",
-    src: ['http://192.227.116.104:4104/autodj', 'http://192.227.116.104:4104/autodj'],
+    title: "Mirchi TopTucker",
+    src: ['http://51.15.208.163:8081/radio/MirchiTopTucker/icecast.audio', 'http://51.15.208.163:8081/radio/MirchiTopTucker/icecast.audio'],
     howl: null
   },
   {
