@@ -352,8 +352,8 @@ var radio = new Radio([
   },
   {
     freq: '&#9725',
-    title: "AJITH FM",
-    src: ['http://192.227.116.104:4078/autodj', 'http://192.227.116.104:4078/autodj'],
+    title: "Geetham Request FM",
+    src: ['http://www.geethamradio.com:8020/hifi.mp3', 'http://www.geethamradio.com:8020/hifi.mp3'],
     howl: null
   },
   {
