@@ -113,25 +113,25 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "AR Rahman Lite",
-    src: ['http://southradios.net:9090/arrahmanliteradio', 'http://southradios.net:9090/arrahmanliteradio'],
+    src: ['http://m.southradios.net:9090/arrahmanliteradio', 'http://m.southradios.net:9090/arrahmanliteradio'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Harris Jayaraj FM",
-    src: ['http://southradios.net:9090/harrisjayarajradio', 'http://southradios.net:9090/harrisjayarajradio'],
+    src: ['http://m.southradios.net:9090/harrisjayarajradio', 'http://m.southradios.net:9090/harrisjayarajradio'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Yuvan FM",
-    src: ['http://southradios.net:9090/ysrradio', 'http://southradios.net:9090/ysrradio'],
+    src: ['http://m.southradios.net:9090/ysrradio', 'http://m.southradios.net:9090/ysrradio'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Deva FM",
-    src: ['http://southradios.net:9090/devaradio', 'http://southradios.net:9090/devaradio'],
+    src: ['http://m.southradios.net:9090/devaradio', 'http://m.southradios.net:9090/devaradio'],
     howl: null
   },
   {
@@ -143,7 +143,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Ilayaraja FM",
-    src: ['http://southradios.net:9090/ilayarajaradio', 'http://southradios.net:9090/ilayarajaradio'],
+    src: ['http://m.southradios.net:9090/ilayarajaradio', 'http://m.southradios.net:9090/ilayarajaradio'],
     howl: null
   },
   {
@@ -155,7 +155,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Yesudas FM",
-    src: ['http://southradios.net:9090/kjyesudasradio', 'http://southradios.net:9090/kjyesudasradio'],
+    src: ['http://m.southradios.net:9090/kjyesudasradio', 'http://m.southradios.net:9090/kjyesudasradio'],
     howl: null
   },
   {
@@ -167,7 +167,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "SPB Radio",
-    src: ['http://southradios.net:9090/spbradio', 'http://southradios.net:9090/spbradio'],
+    src: ['http://m.southradios.net:9090/spbradio', 'http://m.southradios.net:9090/spbradio'],
     howl: null
   },
   {
@@ -179,7 +179,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Anirudh FM",
-    src: ['http://southradios.net:9090/anirudhradio', 'http://southradios.net:9090/anirudhradio'],
+    src: ['http://m.southradios.net:9090/anirudhradio', 'http://m.southradios.net:9090/anirudhradio'],
     howl: null
   },
   {
@@ -191,13 +191,13 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Palaya Padal FM",
-    src: ['http://southradios.net:9090/palaiyapaadalradio', 'http://southradios.net:9090/palaiyapaadalradio'],
+    src: ['http://m.southradios.net:9090/palaiyapaadalradio', 'http://m.southradios.net:9090/palaiyapaadalradio'],
     howl: null
   },
   {
     freq: '&#9725',
     title: "Tamil Lite FM",
-    src: ['http://southradios.net:9090/tamilliteradio', 'http://southradios.net:9090/tamilliteradio'],
+    src: ['http://m.southradios.net:9090/tamilliteradio', 'http://m.southradios.net:9090/tamilliteradio'],
     howl: null
   },
   {
@@ -221,7 +221,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Air Tamil FM",
-    src: ['http://southradios.net:9090/tamilliteradio', 'http://southradios.net:9090/tamilliteradio'],
+    src: ['http://m.southradios.net:9090/tamilliteradio', 'http://m.southradios.net:9090/tamilliteradio'],
     howl: null
   },
   {
@@ -287,7 +287,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Illayaraja Lite FM",
-    src: ['http://southradios.net:9090/ilayarajaliteradio', 'http://southradios.net:9090/ilayarajaliteradio'],
+    src: ['http://m.southradios.net:9090/ilayarajaliteradio', 'm.http://southradios.net:9090/ilayarajaliteradio'],
     howl: null
   },
   {
@@ -371,7 +371,7 @@ var radio = new Radio([
   {
     freq: '&#9725',
     title: "Puthu Paadal Radio",
-    src: ['http://southradios.net:9090/pudhupaadalradio', 'http://southradios.net:9090/pudhupaadalradio'],
+    src: ['http://m.southradios.net:9090/pudhupaadalradio', 'http://m.southradios.net:9090/pudhupaadalradio'],
     howl: null
   },
   {
